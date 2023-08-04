@@ -1,0 +1,4 @@
+29/07/2022 03:43:23 PM:CRITICAL:log_testlogger:This is critical a message
+29/07/2022 03:43:23 PM:ERROR:log_testlogger:This is an error message
+29/07/2022 03:43:23 PM:WARNING:log_testlogger:This is a warning message
+29/07/2022 03:43:23 PM:INFO:log_testlogger:This is an info message

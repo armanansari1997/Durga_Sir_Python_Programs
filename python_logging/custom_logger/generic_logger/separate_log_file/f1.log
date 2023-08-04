@@ -1,0 +1,5 @@
+29/07/2022 03:52:21 PM:CRITICAL:f1logger:This is critical a message
+29/07/2022 03:52:21 PM:ERROR:f1logger:This is an error message
+29/07/2022 03:52:21 PM:WARNING:f1logger:This is a warning message
+29/07/2022 03:52:21 PM:INFO:f1logger:This is an info message
+29/07/2022 03:52:21 PM:DEBUG:f1logger:This is a debug message

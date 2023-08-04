@@ -1,0 +1,7 @@
+27/07/2022 07:37:19 PM:INFO:A new request came
+27/07/2022 07:37:23 PM:ERROR:division by zero
+Traceback (most recent call last):
+  File "C:\Users\arman.ansari_infobea\PycharmProjects\Durga_Sir_Python_Programs\python_logging\prog_04.py", line 14, in <module>
+    print('The result', x/y)
+ZeroDivisionError: division by zero
+27/07/2022 07:37:23 PM:INFO:request processing completed

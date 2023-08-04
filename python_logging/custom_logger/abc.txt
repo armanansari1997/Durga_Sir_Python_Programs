@@ -1,0 +1,4 @@
+29/07/2022 01:16:40 PM:CRITICAL:demologger:This is critical a message
+29/07/2022 01:16:40 PM:ERROR:demologger:This is an error message
+29/07/2022 01:16:40 PM:WARNING:demologger:This is a warning message
+29/07/2022 01:16:40 PM:INFO:demologger:This is an info message

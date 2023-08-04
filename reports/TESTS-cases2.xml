@@ -1,0 +1,16 @@
+<testsuite name="cases2.Payment Types" tests="1" errors="0" failures="0" skipped="0" time="0.002357" timestamp="2022-06-21T17:01:15.031074" hostname="IB-SEZ-LAP-670"><testcase classname="cases2.Payment Types" name="Verify user has two payment options" status="passed" time="0.002357"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario: Verify user has two payment options
+    Given User is on Payment screen ... passed in 0.001s
+    When User clicks on Payment types ... passed in 0.001s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+User is on Payment screen
+User clicks on Payment types
+
+]]>
+</system-out></testcase></testsuite>
